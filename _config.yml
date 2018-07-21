@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Carter Binarao
+bio:            'Patience is a virtue'
+description:    "A blog for what I do most in my spare time..."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+url:            https://retrac18.github.io
 
 
 # Jekyll
@@ -23,28 +23,28 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
-#google:
+email: retrac418@gmail.com
+twitter: carterbinarao
+facebook: carterphotographs
+google:
   #plus: #username
-  #analytics:
+  analytics: UA-56317522-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: retrac18
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: carterbinarao
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+instagram: retrac418
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+steam: retrac18
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -52,13 +52,11 @@ youtube: username
 
 # Paginate
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
+paginate: 5
+paginate_path: "blog/:num/"
 
 # Comments
-disqus_shortname: alperenbozkurt-net
-
+disqus_shortname: carterbinarao
 
 # Gems
 gems:
@@ -72,4 +70,4 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+#exclude: [Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile]
